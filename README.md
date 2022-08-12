@@ -18,7 +18,3 @@
 </div>
 
 ##
-
-<div align="center">
-   <img height="200" width="200" src="https://user-images.githubusercontent.com/93939350/184380673-837c7d2c-3fa7-4ae4-b319-967ccd13b34f.png">
-</div>
