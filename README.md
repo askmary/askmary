@@ -1,16 +1,24 @@
-### Hi there 👋
+### Olá! Eu sou a Mariana Melo! 😸
 
-<!--
-**askmary/askmary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 😼 Eu estou aprendendo React atualmente. 
 
-Here are some ideas to get you started:
+<div>
+  <a href="https://github.com/askmary">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=askmary&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=askmary&layout=compact&langs_count=7&theme=synthwave"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##
+
+<div align="center">
+  <img align="center" alt="HTML" height="50" width="60" title="Html" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="50" width="60" title="CSS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="JS" height="50" width="60" title="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+   <img align="center" alt="Rafa-React" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+</div>
+
+##
+
+<div align="center">
+   <img height="200" width="200" src="https://user-images.githubusercontent.com/93939350/184380673-837c7d2c-3fa7-4ae4-b319-967ccd13b34f.png">
+</div>
